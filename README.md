@@ -22,6 +22,7 @@
 
 <details>
 <summary>Skills</summary>
+
 ![Dot NET]({https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white})
 
 ![Apache]({https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white})
@@ -43,6 +44,7 @@
 
 <details>
 <summary>Recreation</summary>
+
 ![Battle-net]({https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF})
 
 ![CSGO]({https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white})
@@ -70,6 +72,7 @@
 
 <details>
 <summary>IDE's</summary>
+
 ![Android Studio]({https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white})
 
 ![VSCode]({https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white})
