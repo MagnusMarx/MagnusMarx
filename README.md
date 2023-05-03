@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div align='center'>
 <details>
 <summary>Most used languages</summary>
 
@@ -79,6 +79,7 @@
 
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </details>
+</div>
 
 <!--
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
