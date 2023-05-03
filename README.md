@@ -6,7 +6,7 @@
 
 <div align='left'>
 <details>
-<summary>Most used languages</summary>
+<summary>Languages</summary>
 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 
