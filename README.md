@@ -4,7 +4,7 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx'>
 </div>
 
-<div align='center'>
+<div align='left'>
 <details>
 <summary>Most used languages</summary>
 
