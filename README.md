@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+<div align='right'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx'>
+</div>
+
 <div align='center'>
 <details>
 <summary>Most used languages</summary>
