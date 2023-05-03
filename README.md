@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img align='right' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MagnusMarx'>
+
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx'>
+
 <div align='left'>
 <details>
 <summary>Most used languages</summary>
@@ -81,10 +85,6 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </details>
 </div>
-
-<img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MagnusMarx'>
-
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx'>
 
 <!--
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
