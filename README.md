@@ -2,6 +2,8 @@
 
 <img align='left' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MagnusMarx'>
 
+<img align='left' src='https://github-readme-activity-graph.cyclic.app/graph?username=MagnusMarx'>
+
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx'>
 
 <div align='center'>
