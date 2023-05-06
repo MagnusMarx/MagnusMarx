@@ -91,9 +91,16 @@
   
   
 
-| Name                 | A short summary                              |
-| -------------------- | -------------------------------------------- |
-| [2048](https://github.com/MagnusMarx/2048) | My run at re-making 2048 and games based off of 2048. |
+| Icon | Name | A short summary |
+| ---- | ---- | --------------- |
+| <img src='https://raw.githubusercontent.com/MagnusMarx/2048/master/assets/img/ico.png'> | [2048](https://github.com/MagnusMarx/2048) | My run at re-making 2048 and games based off of 2048. |
+| | [NaCL Checker](https://github.com/MagnusMarx/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. |
+| | [Shronkerton](https://github.com/MagnusMarx/Shronkerton) | A Shrek themed Android app. |
+| | [Prometheus](https://github.com/MagnusMarx/Prometheus) | A GBC/GB emulator I remade to be more efficient. |
+| | [Rocket Custa](https://github.com/MagnusMarx/Rocket-Custa) | A broken JS based game I re-made and fixed. |
+| | [Acid-Box](https://github.com/MagnusMarx/Acid-Box) | Web-GL project I remade to look like an Acid trip. |
+| | [Quake-2-PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
+
 <!-- | Content Cell | Content Cell | -->
   
 </details>
