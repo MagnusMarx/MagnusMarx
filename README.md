@@ -94,12 +94,14 @@
 | Icon | Name | A short summary |
 | ---- | ---- | --------------- |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/2048/master/assets/img/ico.png'> | [2048](https://github.com/MagnusMarx/2048) | My run at re-making 2048 and games based off of 2048. |
-| | [NaCL Checker](https://github.com/MagnusMarx/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. |
-| | [Shronkerton](https://github.com/MagnusMarx/Shronkerton) | A Shrek themed Android app. |
-| | [Prometheus](https://github.com/MagnusMarx/Prometheus) | A GBC/GB emulator I remade to be more efficient. |
-| | [Rocket Custa](https://github.com/MagnusMarx/Rocket-Custa) | A broken JS based game I re-made and fixed. |
-| | [Acid-Box](https://github.com/MagnusMarx/Acid-Box) | Web-GL project I remade to look like an Acid trip. |
-| | [Quake-2-PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/NaCL/gh-pages/assets/img/Icon-32x32.png'> | [NaCL Checker](https://github.com/MagnusMarx/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Shronkerton/main/src/main/res/drawable/shrek6.png'> | [Shronkerton](https://github.com/MagnusMarx/Shronkerton) | A Shrek themed Android app. |
+| <img height='32' width='32' src='https://github.com/MagnusMarx/Prometheus/blob/master/assets/img/ios/icon-72x72.png'> | [Prometheus](https://github.com/MagnusMarx/Prometheus) | A GBC/GB emulator I remade to be more efficient. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Rocket-Custa/master/assets/img/icon-48.png'> | [Rocket Custa](https://github.com/MagnusMarx/Rocket-Custa) | A broken JS based game I re-made and fixed. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Acid-Box/master/assets/img/AcidBox-32x32.png'> | [Acid-Box](https://github.com/MagnusMarx/Acid-Box) | Web-GL project I remade to look like an Acid trip. |
+| <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake-2-PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
+
+
 
 <!-- | Content Cell | Content Cell | -->
   
