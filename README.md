@@ -93,7 +93,7 @@
 
 | Icon | Name | A short summary |
 | ---- | ---- | --------------- |
-| <img src='https://raw.githubusercontent.com/MagnusMarx/2048/master/assets/img/ico.png'> | [2048](https://github.com/MagnusMarx/2048) | My run at re-making 2048 and games based off of 2048. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/2048/master/assets/img/ico.png'> | [2048](https://github.com/MagnusMarx/2048) | My run at re-making 2048 and games based off of 2048. |
 | | [NaCL Checker](https://github.com/MagnusMarx/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. |
 | | [Shronkerton](https://github.com/MagnusMarx/Shronkerton) | A Shrek themed Android app. |
 | | [Prometheus](https://github.com/MagnusMarx/Prometheus) | A GBC/GB emulator I remade to be more efficient. |
