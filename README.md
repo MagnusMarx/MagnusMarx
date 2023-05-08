@@ -99,17 +99,20 @@
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Rocket-Custa/master/assets/img/icon-48.png'> | [Rocket Custa](https://github.com/MagnusMarx/Rocket-Custa) | A broken JS based game I re-made and fixed. |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Acid-Box/master/assets/img/AcidBox-32x32.png'> | [Acid-Box](https://github.com/MagnusMarx/Acid-Box) | Web-GL project I remade to look like an Acid trip. |
 | <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake-2-PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
+<!-- | Content Cell | Content Cell | -->
+  
+</details>
 
+<details>
+  <summary>API'S</summary>
 | Icon | Name | Summary | Published On |
 | ---- | ---- | ------- | ------------ |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/NaCL/gh-pages/assets/img/Icon-32x32.png'> | [NaCL Checker](https://github.com/MagnusMarx/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. | <img src='https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'><img src='https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white'> |
 | N/A | [Dynamic Menu](https://github.com/MagnusMarx/Dynamic-Menu) | A Upscale your website menu's with this purely JS API! | <img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'><img src='https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white'> |
-
-
-
-<!-- | Content Cell | Content Cell | -->
-  
 </details>
+
+
+
 
 <!--
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
