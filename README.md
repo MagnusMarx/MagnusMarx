@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx&theme=react'>
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MagnusMarx'>
 
 <img align='right' width='350px' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MagnusMarx&theme=react'>
 
