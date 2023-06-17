@@ -112,6 +112,7 @@
 | ---- | ---- | ------- | ------------ |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/NaCL/gh-pages/assets/img/Icon-32x32.png'> | [NaCL Checker](https://github.com/MagnusMarx/NaCL) | A JS based API that detects if Chrome's Native Client plugin is enabled. | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'><img src='https://img.shields.io/badge/jsDelivr-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white'> |
 | N/A | [Dynamic Menu](https://github.com/MagnusMarx/Dynamic-Menu) | A Upscale your website menu's with this purely JS API! | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'><img src='https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white'> |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/PHP-Chat-Room/main/favicon.ico'> | [PHP Chat Room] | A .php chat room I made in about five minutes during my 10th grade English class. | | <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'> |
 </details>
 
 
