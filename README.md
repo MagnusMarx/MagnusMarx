@@ -99,6 +99,7 @@
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Rocket-Custa/master/assets/img/icon-48.png'> | [Rocket Custa](https://github.com/MagnusMarx/Rocket-Custa) | A broken JS based game I re-made and fixed. |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Acid-Box/master/assets/img/AcidBox-32x32.png'> | [Acid-Box](https://github.com/MagnusMarx/Acid-Box) | Web-GL project I remade to look like an Acid trip. |
 | <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake-2-PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/VLC-Media-Web-Player/gh-pages/assets/img/VLC.svg'> | [VLC Media Web Player](https://github.com/MagnusMarx/VLC-Media-Web-Player) | I made a VLC Media Player themed video and picture player. |
 <!-- | Content Cell | Content Cell | -->
   
 </details>
