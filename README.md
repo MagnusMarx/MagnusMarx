@@ -100,6 +100,7 @@
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/Acid-Box/master/assets/img/AcidBox-32x32.png'> | [Acid-Box](https://github.com/MagnusMarx/Acid-Box) | Web-GL project I remade to look like an Acid trip. |
 | <img height='32' width='32' src='https://adamtrex.azurewebsites.net/Assets/Images/Icons/Quake2-32x32.png'> | [Quake-2-PlayN-MagnusPort](https://github.com/MagnusMarx/Quake2-PlayN-MagnusPort) | A broken Quake 2 emulator I remade by hand. |
 | <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/VLC-Media-Web-Player/gh-pages/assets/img/VLC.svg'> | [VLC Media Web Player](https://github.com/MagnusMarx/VLC-Media-Web-Player) | I made a VLC Media Player themed video and picture player. |
+| <img height='32' width='32' src='https://raw.githubusercontent.com/MagnusMarx/WadCMD/master/Assets/Img/logo.png'> | [WadCMD](https://github.com/MagnusMarx/WadCMD) | My recreation of WadCMD to make it easier to use. |
 <!-- | Content Cell | Content Cell | -->
   
 </details>
